@@ -23,8 +23,8 @@
 
 ### Блок-схема
 
-<img width="258" height="402" alt="Диаграмма без названия drawio" src="https://github.com/user-attachments/assets/df40c761-349a-4465-8b46-a69054b9b98a" />
-https://github.com/user-attachments/assets/90b585dd-11e1-452f-b34d-5da8319f9417" />
+<img width="158" height="352" alt="Диаграмма без названия drawio (3)" src="https://github.com/user-attachments/assets/ef406f2f-1f20-456d-9618-59b2db705e6f" />
+
 
 
 
